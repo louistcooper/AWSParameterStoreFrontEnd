@@ -1,0 +1,24 @@
+{
+  "name": "awsparameterstorefrontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-ssm": "^3.363.0",
+    "aws-sdk": "^2.1410.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louistcooper/AWSParameterStoreFrontEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louistcooper/AWSParameterStoreFrontEnd/issues"
+  },
+  "homepage": "https://github.com/louistcooper/AWSParameterStoreFrontEnd#readme"
+}
